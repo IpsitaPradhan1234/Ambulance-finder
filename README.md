@@ -24,7 +24,7 @@ Using cutting-edge technology, real-time tracking, and a network of verified med
 ![Homepage](https://res.cloudinary.com/dvlgo9z09/image/upload/v1752688065/landing_page_wwskqa.png)
 
 ### 📝 Signup Page  
-![Signup](https://res.cloudinary.com/dvlgo9z09/image/upload/v1752688079/sign_up_bd0jdp.png)
+![Signup](https://res.cloudinary.com/dvlgo9z09/image/upload/v1755259131/ambulance_finder_lndrnz.jpg)
 
 ### 🔐 Login Page  
 ![Login](https://res.cloudinary.com/dvlgo9z09/image/upload/v1752688080/sign_in_dfandd.png)

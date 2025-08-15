@@ -2,7 +2,7 @@ export function loadGoogleMapsScript() {
   return new Promise((resolve, reject) => {
     if (typeof window.google === 'object' && window.google.maps) {
       resolve(); // Already loaded
-      return;
+      return;//done
     }
 
     const script = document.createElement('script');

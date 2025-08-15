@@ -19,23 +19,23 @@ Using cutting-edge technology, real-time tracking, and a network of verified med
 
 ---
 
-## 💡 Features
-### 🏠 Homepage  
+# 💡 Features
+##🏠 Homepage  
 ![Homepage](https://res.cloudinary.com/dvlgo9z09/image/upload/v1752688065/landing_page_wwskqa.png)
 
-### 📝 Signup Page  
+## 📝 Signup Page  
 ![Signup](https://res.cloudinary.com/dvlgo9z09/image/upload/v1755259131/ambulance_finder_lndrnz.jpg)
 
-### 🔐 Login Page  
+## 🔐 Login Page  
 ![Login](https://res.cloudinary.com/dvlgo9z09/image/upload/v1755259131/Ambulancefinder_qkzk6u.jpg)
 
-### 📍 Real-Time Tracking  
+## 📍 Real-Time Tracking  
 ![Real-Time Tracking](https://res.cloudinary.com/dvlgo9z09/image/upload/v1752688065/most_imp_p3yquk.png)
 
-### 📋 Working of Website  
+## 📋 Working of Website  
 ![Working of Website](https://res.cloudinary.com/dvlgo9z09/image/upload/v1752688154/services_riho88.png)
 
-### Overview  
+## Overview  
 ![Overview](https://res.cloudinary.com/dvlgo9z09/image/upload/v1752688147/footer_qcqt6g.png)
 
 ----

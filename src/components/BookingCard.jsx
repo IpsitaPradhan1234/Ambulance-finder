@@ -87,7 +87,7 @@ const BookingCard = ({ booking, onAction, actionLabel, actionVariant = 'primary'
           </div>
         )}
 
-        {/* User Info (for driver view) */}
+        {/* User Info (for driver view) yes */}
         {booking.users && (
           <div className="flex items-center space-x-3">
             <User className="h-5 w-5 text-blue-600 flex-shrink-0" />

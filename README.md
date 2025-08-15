@@ -39,16 +39,16 @@ Using cutting-edge technology, real-time tracking, and a network of verified med
 ![Overview](https://res.cloudinary.com/dvlgo9z09/image/upload/v1752688147/footer_qcqt6g.png)
 
 ----
-- 🔐 User authentication using Supabase
-- 📍 Real-time ambulance tracking with Socket.IO
-- 🚑 Register and manage ambulances and drivers
-- 🧑‍⚕️ Driver-side live location updates
-- ⚡ Emergency booking system with instant assignment
-- 📬 Email verification on signup
-- 🌐 Hosted frontend and backend
+-  User authentication using Supabase
+-  Real-time ambulance tracking with Socket.IO
+-  Register and manage ambulances and drivers
+-  Driver-side live location updates
+-  Emergency booking system with instant assignment
+-  Email verification on signup
+-  Hosted frontend and backend
 
 ---
-## 🛠️ Tech Stack
+# Tech Stack
 
 - **Frontend**: React.js + Tailwind CSS
 - **Backend**: Express.js + Socket.IO
@@ -80,8 +80,7 @@ Using cutting-edge technology, real-time tracking, and a network of verified med
 
 ### 1. Clone the Repository
 
-git clone https://github.com/tusharsaini-05/ambulance-main/ambulance-finder.git
-cd ambulance-finder
+git clone https://github.com/IpsitaPradhan1234/Ambulance-finder.git
 
 2. Set Up .env File
 
